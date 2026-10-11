@@ -1,6 +1,7 @@
 .container {
   display: flex;
   width: 100px;
+  background-color: red;
 }
 
 .container .transform {
